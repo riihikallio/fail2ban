@@ -1,0 +1,2 @@
+﻿# failJSON: { "time": "2018-01-19T18:54:10", "match": true , "host": "188.238.40.118" }
+[2018-01-19 18:54:10,177] <webapi-83> INFO  api    - [api] Failed admin login for jekku from 188.238.40.118
